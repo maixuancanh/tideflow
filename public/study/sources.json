@@ -1,0 +1,22 @@
+{
+  "license": "CC0",
+  "license_url": "https://polyhaven.com/license",
+  "assets": [
+    [
+      "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/concrete_floor_02/concrete_floor_02_diff_2k.jpg",
+      "concrete-color.jpg"
+    ],
+    [
+      "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/concrete_floor_02/concrete_floor_02_nor_gl_2k.jpg",
+      "concrete-normal.jpg"
+    ],
+    [
+      "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/concrete_floor_02/concrete_floor_02_rough_2k.jpg",
+      "concrete-rough.jpg"
+    ],
+    [
+      "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/kloppenheim_06_puresky_1k.hdr",
+      "daylight.hdr"
+    ]
+  ]
+}

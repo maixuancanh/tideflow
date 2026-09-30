@@ -1,0 +1,2 @@
+const cells={harbor:[0,0],container:[1,0],forklift:[2,0],crane:[3,0],truck:[0,1],inventory:[1,0],record:[1,1],shop:[2,1],manage:[3,1],upgrade:[0,2],inland:[1,2],sea:[2,2],lock:[3,2],connection:[0,3],arrival:[1,3],yard:[2,3],confirm:[3,3]} as const;
+export function gameIcon(name:keyof typeof cells){const [x,y]=cells[name];return `<span class="tf-art-icon" aria-hidden="true" style="background-position:${x/3*100}% ${y/3*100}%"></span>`;}
